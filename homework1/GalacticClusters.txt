@@ -1,0 +1,12 @@
+Virgo 22 0.75
+Pegasus 68 2.4
+Perseus 108 3.2
+Coma Berenices 137 4.7
+Ursa Major No.1 255 9.3
+Leo 315 12.0
+Corona Borealis 390 13.4
+Gemini 405 14.4
+Bo{\"o}tes 685 24.5
+Ursa Major No.2 700 26.0
+Hydra 1100 38.0
+
